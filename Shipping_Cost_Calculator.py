@@ -1,4 +1,3 @@
-# Here is another update by varun-2024
 # Here is a new update by varun-2024
 # Shipping Cost Calculator
 
