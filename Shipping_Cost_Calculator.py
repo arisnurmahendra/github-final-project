@@ -1,5 +1,5 @@
 # Shipping Cost Calculator
-def shipping_cast_calculator(weight, rate):
+def shipping_cost_calculator(weight, rate):
     """
     Calculates the shipping cost for a given package weight and rate.
 
@@ -17,13 +17,13 @@ def shipping_cast_calculator(weight, rate):
     """
     return weight * rate
 
+
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
 rate = float(input("Enter the shipping rate per kilogram: "))
 
 ## Calculate shipping cost
-shipping_cost = shipping_cast_calculator(weight, rate)
+shipping_cost = shipping_cost_calculator(weight, rate)
 
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
-
