@@ -1,5 +1,4 @@
 # Here is a new update by Bhargavi-Krish-15
-# Here is another update by Bhargavi-Krish-15
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
