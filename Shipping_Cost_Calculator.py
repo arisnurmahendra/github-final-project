@@ -1,5 +1,7 @@
 # Shipping Cost Calculator
 # Here is a new update by martinh726
+# Here is another update by <your GitHub username>
+
 
 
 ## Input package weight and shipping rate
