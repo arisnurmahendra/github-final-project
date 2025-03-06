@@ -1,4 +1,6 @@
- # Here is a new update by Jonathan Grumke
+# Here is a new update by Jonathan Grumke
+
+# Here is another update by <your GitHub username>
 
 # Shipping Cost Calculator
 
