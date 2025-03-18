@@ -1,5 +1,4 @@
 # Here is a new update by ddreader
-# Here is another update by ddreader
 
 # Shipping Cost Calculator
 
