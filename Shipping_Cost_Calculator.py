@@ -1,5 +1,4 @@
-# Here is another update by Htoo
-# Here is a new update by Htoo
+# Here is a new update by Ht
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
