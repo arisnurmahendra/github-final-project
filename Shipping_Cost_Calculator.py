@@ -12,3 +12,4 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 
  # Ecco un nuovo aggiornamento da Michele Lorusso
+ # Here is another update by Michele Lorusso
