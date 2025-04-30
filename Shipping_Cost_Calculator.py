@@ -12,5 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 
 ## Here is a new update by pawnToC4
-
-# Here is another update by pawnToC4
