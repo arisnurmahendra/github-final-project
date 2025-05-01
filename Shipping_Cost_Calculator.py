@@ -10,3 +10,4 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
  # Aquí hay una nueva actualización por <Ar2-SG>
+ # Here is another update by <Ar2-S>
