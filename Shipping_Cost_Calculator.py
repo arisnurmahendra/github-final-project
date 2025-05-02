@@ -1,5 +1,4 @@
-# Here is a new update by @jivfur
-# Here is another update by @jivfur
+ # Here is a new update by @jivfur
 
 # Shipping Cost Calculator
 
