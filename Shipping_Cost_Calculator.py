@@ -1,5 +1,4 @@
 # Here is a new update by Officialibn1
-# Here is another update by Officialibn1
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
