@@ -1,5 +1,6 @@
 # Here is a new update
 print("Update")
+print("New Update")
 
 # Shipping Cost Calculator
 
