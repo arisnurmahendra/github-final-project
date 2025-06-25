@@ -1,4 +1,6 @@
 # Here is a new update by Venywln
+# Here is another update by Venywln
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
