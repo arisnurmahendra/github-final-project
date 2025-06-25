@@ -1,5 +1,4 @@
-# Here is a new update by Kinbor1994
-# Here is another update by Kinbor1994
+# Here is a new update by Kinbor1994>
 "# Shipping Cost Calculator
 
 ## Input package weight and shipping rate
