@@ -1,5 +1,4 @@
 # Here is a new update by MobySchell
-# Here is another update by MobySchell
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
