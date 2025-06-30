@@ -18,3 +18,4 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+© 2025 Shipping Co. All rights reserved.
