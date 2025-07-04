@@ -10,3 +10,6 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+# This line was added in the shipping_calculator_fixes branch
+print("success")
+
