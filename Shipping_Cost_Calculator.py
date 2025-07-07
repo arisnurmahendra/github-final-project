@@ -1,5 +1,4 @@
  # Here is a new update by rishabhacejain
- # Here is another update by rishabhacejain
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
