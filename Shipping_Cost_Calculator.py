@@ -1,5 +1,4 @@
 # Here is a new update by bl-study
-# Here is another update by bl-study
 
 # Shipping Cost Calculator
 
