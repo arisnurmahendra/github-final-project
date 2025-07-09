@@ -1,5 +1,5 @@
 # Contributor Covenant Code of Conduct
-
+_Instruction is convoluted within the course_
 ## Our Pledge
 
 We as members, contributors, and leaders pledge to make participation in our
