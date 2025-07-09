@@ -13,5 +13,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 
 # My name is Souvik Mandal
-
-# Here is another update by <Souvik AP19110010485>
