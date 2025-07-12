@@ -1,5 +1,4 @@
 # Here is a new update by oladipupo-david-gideon
-# Here is another update by oladipupo-david-gideon
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
