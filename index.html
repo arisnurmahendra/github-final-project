@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logistics Shipping Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>🚚 Logistics Shipping Calculator</h1>
+            <p>Calculate accurate shipping costs with multiple service options</p>
+        </header>
+
+        <main class="calculator">
+            <form id="shippingForm" class="form">
+                <div class="form-group">
+                    <label for="weight">Package Weight (kg):</label>
+                    <input type="number" id="weight" step="0.1" min="0.1" max="50" required>
+                    <small>Maximum 50kg</small>
+                </div>
+
+                <div class="form-group">
+                    <label for="service">Shipping Service:</label>
+                    <select id="service" required>
+                        <option value="">Select service type</option>
+                        <option value="standard">Standard ($2.50/kg + $5.00 base)</option>
+                        <option value="express">Express ($4.00/kg + $12.00 base)</option>
+                        <option value="overnight">Overnight ($7.50/kg + $25.00 base)</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>
+                        <input type="checkbox" id="useZip"> Include distance calculation
+                    </label>
+                </div>
+
+                <div id="zipFields" class="zip-fields hidden">
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="originZip">Origin ZIP:</label>
+                            <input type="text" id="originZip" placeholder="12345">
+                        </div>
+                        <div class="form-group">
+                            <label for="destZip">Destination ZIP:</label>
+                            <input type="text" id="destZip" placeholder="90210">
+                        </div>
+                    </div>
+                </div>
+
+                <button type="submit" class="calculate-btn">Calculate Shipping Cost</button>
+            </form>
+
+            <div id="results" class="results hidden">
+                <h3>Shipping Quote</h3>
+                <div id="quoteDetails" class="quote-details"></div>
+                <div id="comparison" class="comparison hidden">
+                    <h4>Service Comparison</h4>
+                    <div id="comparisonTable"></div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="calculator.js"></script>
+</body>
+</html>
