@@ -1,5 +1,7 @@
 # Here is a new update by jacobkiefer
 
+# Here is a second update by jacobkiefer
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
