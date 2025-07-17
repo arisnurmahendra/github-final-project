@@ -1,4 +1,5 @@
 # Voici une nouvelle mise à jour par <your GitHub kader9699>
+# Here is another update by <your GitHub kader9699>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
