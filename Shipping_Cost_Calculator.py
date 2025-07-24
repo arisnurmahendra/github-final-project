@@ -1,5 +1,4 @@
  # Here is a new update by CheickHD
- # Here is a new update by CheickHD
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
