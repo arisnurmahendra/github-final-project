@@ -18,3 +18,5 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Voici une nouvelle mise à jour par rodriguemidbel
 
+# Here is another update by rodriguemidbel
+
