@@ -19,10 +19,7 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
-
-This line was added for Coursera GitHub CLI project demonstration.
-
-\## 🛠️ This is a test change made for Coursera CLI submission
+## This line added for Coursera GitHub CLI demonstration —
 
 
 
