@@ -1,4 +1,5 @@
  # Here is a new update by <DaddeJ>
+ # Here is another update by <DaddeJ>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
