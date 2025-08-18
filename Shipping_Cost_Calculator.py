@@ -1,12 +1,27 @@
 # Shipping Cost Calculator
 
-## Input package weight and shipping rate
-weight = float(input("Enter the package weight in kilograms: "))
-rate = float(input("Enter the shipping rate per kilogram: "))
+while True:
+    try:
+        peso = float(input("Ingresa el peso del paquete en kilogramos: "))
+        if peso <= 0:
+            print("El peso debe ser un número positivo.")
+            continue
+        break
+    except ValueError:
+        print("Por favor, ingresa un número válido para el peso.")
 
-## Calculate shipping cost
-shipping_cost = weight * rate
+while True:
+    try:
+        tarifa = float(input("Ingresa la tarifa de envío por kilogramo: "))
+        if tarifa < 0:
+            print("La tarifa no puede ser negativa.")
+            continue
+        break
+    except ValueError:
+        print("Por favor, ingresa un número válido para la tarifa.")
 
-## Display the result
-print(f"Shipping Cost: {shipping_cost} USD")
+costo_envio = peso * tarifa
+
+print(f"Costo de Envío: {costo_envio:.2f} USD")
+
 
