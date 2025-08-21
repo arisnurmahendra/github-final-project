@@ -1,5 +1,3 @@
-# Here is another update by hajricod
-
 # Here is a new update by hajricod
 
 # Shipping Cost Calculator
