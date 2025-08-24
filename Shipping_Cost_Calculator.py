@@ -1,4 +1,4 @@
- # Here is a new update by HuzaifaAnsari07
+# Here is a new update by HuzaifaAnsari07
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
