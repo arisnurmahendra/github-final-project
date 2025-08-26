@@ -1,3 +1,7 @@
+# Here is a new update by rpoesen
+git config --global user.email "renspoesen@hotmail.com"
+git config --global user.name "rpoesen"
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
