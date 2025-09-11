@@ -1,5 +1,4 @@
 # Here is a new update by yanemeeyyyy
-# Here is another update by yanemeeyyyy
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
