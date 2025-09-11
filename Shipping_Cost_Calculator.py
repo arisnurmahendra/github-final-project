@@ -1,5 +1,5 @@
 # Here is a new update by mashaPol
-# Here is another update to your file
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
