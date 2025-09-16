@@ -1,6 +1,6 @@
 
  # Here is a new update by hage321
-# Here is another update by hage
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
