@@ -1,8 +1,30 @@
-# create a feature branch
-git checkout -b feature/your-feature-name
+1. Open the global repo in the browser:
+https://github.com/ibm-developer-skills-network/Centralized-repository-shipping_calculations.git
 
-# edit files (use the editor UI or terminal editors)
-# stage, commit, push
-git add .
-git commit -m "Describe your changes"
-git push --set-upstream origin feature/your-feature-name
+2. Fork the repo (top-right “Fork” button) so you have a copy in your account.
+
+3. On your fork’s page, click Code → Codespaces → New codespace (choose the main branch).
+(If you don’t see Codespaces, you might not have access — see notes below.) 
+GitHub Docs
+
+4. Codespace opens in the browser (VS Code UI). Use the integrated terminal to run git commands, edit files, run tests, etc.
+
+5. Workflow inside Codespace:
+
+    # create a feature branch
+    git checkout -b feature/your-feature-name
+
+    # edit files (use the editor UI or terminal editors)
+    # stage, commit, push
+    git add .
+    git commit -m "Describe your changes"
+    git push --set-upstream origin feature/your-feature-name
+
+
+6. Create PR from terminal or from GitHub UI:
+
+    Terminal (in Codespace):
+
+    gh pr create --base main --head YOUR_USERNAME:feature/your-feature-name \
+    --title "Short title" --body "Detailed description of change"
+    Or click Pull requests → New pull request on the GitHub website. 
