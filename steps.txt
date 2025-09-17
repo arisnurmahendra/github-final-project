@@ -39,3 +39,6 @@ GitHub Docs
 
 9. Retry pull request command now:
     redo step 6
+
+10. To set default repo:
+    gh repo set-default
