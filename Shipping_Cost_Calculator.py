@@ -1,4 +1,5 @@
  # Here is a new update by Banzo12
+ # Here is another update by Banzo12
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
