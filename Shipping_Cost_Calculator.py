@@ -1,4 +1,4 @@
-# Here is another update by Yashgupta9132
+ # Here is a new update by Yashgupta9132
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
