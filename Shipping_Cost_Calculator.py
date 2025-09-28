@@ -1,4 +1,5 @@
 # Here is a new update by krxecs
+# Here is another update by krxecs
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
