@@ -14,3 +14,4 @@ def calculate_shipping_cost(weight, rate):
     return weight * rate
 
 # Here is a new update by Fangzheng Shi
+# Here is another update by Fangzheng Shi
