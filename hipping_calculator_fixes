@@ -1,0 +1,7 @@
+[33mcommit 58bc5ee503c6d6e29852bd0bbd3f8a4f213b8449[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mshipping_calculator_fixes[m[33m)[m
+Author: fabricemogini <fmogini@gmail.com>
+Date:   Wed Oct 1 03:26:19 2025 -0400
+
+    Revert "added additional line to Shipping_Cost_Calculator.py"
+    
+    This reverts commit dd1e51389578ccb60419d340521eba65f813870f.
