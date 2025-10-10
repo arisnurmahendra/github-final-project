@@ -1,4 +1,4 @@
- # Here is another update by MindWaveGG
+ # Here is a new update by MindWWaveGG
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
