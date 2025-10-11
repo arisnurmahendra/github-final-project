@@ -1,5 +1,4 @@
 # Here is a new update by ZelenovSergey
-# Here is another update by ZelenovSergey
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
