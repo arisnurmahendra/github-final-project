@@ -1,5 +1,3 @@
- # Here is a new update by khanhtdk
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
@@ -12,3 +10,6 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+# Here is a new update by khanhtdk
+
+# Here is another update by khanhtdk
