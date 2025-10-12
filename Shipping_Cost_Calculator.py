@@ -1,4 +1,3 @@
-# Here is another update by irishaGo
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
