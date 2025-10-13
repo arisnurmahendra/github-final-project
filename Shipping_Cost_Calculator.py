@@ -1,5 +1,4 @@
 #This is an edit made by lady-death-bug
-# Here is another update by lady-death-bug
 
 # Shipping Cost Calculator
 
