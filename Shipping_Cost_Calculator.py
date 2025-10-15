@@ -1,5 +1,4 @@
 # Berikut adalah pembaruan baru oleh R2Z2407
-# Here is another update by R2z2407
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
