@@ -10,3 +10,8 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+# adding thank you line
+print("Thank you for using the Shipping Cost Calculator!")
+
+
+# here is another update by yunifab
