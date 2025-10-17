@@ -9,4 +9,5 @@ shipping_cost = weight * rate
 
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
-
+## diplay the comment
+print("cost calculated successfully")
