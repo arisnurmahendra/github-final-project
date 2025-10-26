@@ -1,4 +1,3 @@
-# Here is another update by Hamzashakoor315
 # Here is a new update by hamzashakoor315
 # Shipping Cost Calculator
 
