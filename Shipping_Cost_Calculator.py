@@ -1,5 +1,4 @@
-# Here is another update by KarieBeth
-
+# Here is a new update by KarieBeth
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
