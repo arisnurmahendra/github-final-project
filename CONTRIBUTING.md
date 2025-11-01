@@ -18,3 +18,8 @@ Code Review
 All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
 
 Thank you for your contribution!
+
+Contact Information
+If you have any questions about contributing, please contact the maintainers at
+project-maintainers@softbmllc.com. We appreciate your efforts to improve this project and
+will respond as soon as possible.
