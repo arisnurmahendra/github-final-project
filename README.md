@@ -18,3 +18,6 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+git add README.md
+git commit -m "Fix typo in README"
+git push origin bug-fix-typo
