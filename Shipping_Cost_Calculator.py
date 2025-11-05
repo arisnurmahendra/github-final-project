@@ -1,4 +1,3 @@
-# Here is another update by gauri72
 # Here is a new update by gauri72
 # Shipping Cost Calculator
 
