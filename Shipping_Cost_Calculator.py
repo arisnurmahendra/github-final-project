@@ -1,4 +1,5 @@
 # Here is a new update by myngi
+# Here is another update by myngi
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
