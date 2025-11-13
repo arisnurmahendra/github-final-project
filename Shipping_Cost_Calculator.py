@@ -16,3 +16,7 @@ git config --global user.name "SabinaAbd777"
 git add .
 git commit -m "added a new line to Shipping_Cost_Calculator.py"
 git status
+
+# Here is another update by SabinaAbd777
+git add .
+git commit -m "added additional line to Shipping_Cost_Calculator.py"
