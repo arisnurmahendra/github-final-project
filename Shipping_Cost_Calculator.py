@@ -1,5 +1,4 @@
 # Here is a new update by isiaims
-# Here is another update by isiaims
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
