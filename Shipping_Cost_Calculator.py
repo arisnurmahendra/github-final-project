@@ -1,4 +1,5 @@
 # Here is a new update by kylemoored90@gmail.com
+# Here is another update by Kyle
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
