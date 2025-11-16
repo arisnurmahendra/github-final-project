@@ -1,5 +1,7 @@
 # Shipping Cost Calculator
-
+"""
+This program calculates the shipping cost based on the package weight and shipping rate.
+"""
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
 rate = float(input("Enter the shipping rate per kilogram: "))
