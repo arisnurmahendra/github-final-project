@@ -1,5 +1,4 @@
 # Here is a new update by KADL001202
-# Here is another update by KADL001202
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
