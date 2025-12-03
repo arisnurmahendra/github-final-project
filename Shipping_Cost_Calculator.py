@@ -1,4 +1,3 @@
-# Here is another update by The Great Poppini
 # Here is a new update by The Great Poppini
 # Shipping Cost Calculator
 
