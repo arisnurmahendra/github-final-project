@@ -1,5 +1,4 @@
 # Here is a new update by bossanova3
-# Here is another update by bossanova3
 
 # Shipping Cost Calculator
 
