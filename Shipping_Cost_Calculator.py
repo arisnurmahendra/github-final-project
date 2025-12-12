@@ -1,5 +1,3 @@
-# Author: K-6ix
-# Here is another update by k-6ix
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
