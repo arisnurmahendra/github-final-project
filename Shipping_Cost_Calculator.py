@@ -11,3 +11,4 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} MAD")
 
+# Here is another update by <kerolbdu08-dev>
