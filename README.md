@@ -1,4 +1,7 @@
 # LogisticsShippingRates
+dear Mr, madame sister and brother 
+
+
 Please consider the below factors while contributing
 
 Code Style:
