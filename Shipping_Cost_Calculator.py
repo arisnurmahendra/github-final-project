@@ -1,4 +1,4 @@
-# Here is a new update by https://github.com/ShimaMomen/
+# Here is a new update by ShimaMomen
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
