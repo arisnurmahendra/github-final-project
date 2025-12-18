@@ -12,7 +12,5 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 # Here is a new update by <nikopsaros-svg>
 
-# Here is another update by <nikopsaros-svg>
-
 
 
