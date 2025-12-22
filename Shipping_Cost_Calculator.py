@@ -1,5 +1,4 @@
-# Here is a new update by ODA476
-# Here is another update by ODA476
+ # Here is a new update by ODA476
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
