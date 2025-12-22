@@ -1,6 +1,4 @@
-## Here is a new update by loharmurtaza
-
-## Here is another update by loharmurtaza
+ # Here is a new update by loharmurtaza
 
 # Shipping Cost Calculator
 
