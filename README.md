@@ -18,3 +18,4 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+Thank you for helping improve this project.
