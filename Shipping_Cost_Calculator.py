@@ -1,5 +1,4 @@
  # Here is a new update by Medonati
- # Here is another update by Medonati
 
 # Shipping Cost Calculator
 
