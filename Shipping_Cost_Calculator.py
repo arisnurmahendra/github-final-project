@@ -1,6 +1,4 @@
 # Here is the new update by Gaurav Jain
-# Here is the another update by Gaurav Jain
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
