@@ -1,5 +1,4 @@
 # Here is a new update by A1ChemisTx
-# Here is another update by A1ChemisTx
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
