@@ -1,5 +1,4 @@
 # Modified by neshi-dev
-# Here is another update
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
