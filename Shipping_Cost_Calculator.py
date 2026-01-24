@@ -1,5 +1,4 @@
-# Here is another update by NikolaosKatseris
-# Here is a new update by NikolaosKatseris
+ # Here is a new update by NikolaosKatseris
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
