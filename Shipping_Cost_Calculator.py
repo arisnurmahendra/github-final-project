@@ -1,5 +1,4 @@
 # Shipping Cost Calculator
-# Here is another update by Shrejal Kesharwani
  # Here is a new update by Shrejal Kesharwani
 
 ## Input package weight and shipping rate
