@@ -13,7 +13,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
  # Here is a new update by AzizaAbdukadyr
 
 print("hello world")
-
-# Here is another update by AzizaAbdukadyr
-print("This is another update.")
-
