@@ -1,4 +1,3 @@
-# Here is another update by kdlunn
 # Here is a new update by kdlunn
 # Shipping Cost Calculator
 
