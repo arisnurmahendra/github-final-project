@@ -10,7 +10,8 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
- # Here is a new update by <karthikavennilavan>git config --global user.email "your-email@example.com"
+ # Here is a new update by <karthikavennilavan>
+ print(f"Shipping Created Successfully")
 
 
 
