@@ -1,3 +1,4 @@
+# Comments added by adrian-gajewski
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
