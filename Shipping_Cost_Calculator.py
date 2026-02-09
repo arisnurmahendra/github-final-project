@@ -1,4 +1,4 @@
- # Here is a new update by MJ
+ # Here is a new update by MJ.
  # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
