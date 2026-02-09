@@ -1,6 +1,9 @@
 # LogisticsShippingRates
 Please consider the below factors while contributing
 
+contributor name:
+Fareha Tahir PK
+
 Code Style:
 Maintain a consistent code style for readability.
 
