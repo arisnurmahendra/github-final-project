@@ -13,3 +13,5 @@ else:
 
     # Display the result
     print(f"Shipping Cost: {shipping_cost:.2f} USD")
+
+    #this is an update
