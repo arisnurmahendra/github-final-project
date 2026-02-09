@@ -1,5 +1,4 @@
  # Here is a new update by <Manodya-Siriwardhana>
-# Here is another update by <Manodya-Siriwardhana>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
