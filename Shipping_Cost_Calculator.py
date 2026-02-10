@@ -1,5 +1,5 @@
-# Here is a new update by DagoTshering
-# Here is another update by DagoTshering
+ # Here is a new update by DagoTshering
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
