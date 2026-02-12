@@ -1,4 +1,4 @@
- # Here is a new update by amine545
+ # Here is a new update by amine7
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
