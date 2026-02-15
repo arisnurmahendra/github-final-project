@@ -11,4 +11,3 @@ shipping_cost = weight * rate
 print(f"Shipping Cost: {shipping_cost} USD")
 
 Fourth line added by UKS
-New line added to see revert changes by UKS
