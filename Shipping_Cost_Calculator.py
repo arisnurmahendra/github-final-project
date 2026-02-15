@@ -12,3 +12,5 @@ shipping_cost_eur = shipping_cost * 0.84
 print(f"Shipping Cost: {shipping_cost} USD")
 print(f"Shipping Cost: {shipping_cost_eur} EUR")
 
+##my change
+
