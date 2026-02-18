@@ -1,5 +1,4 @@
-# Here is a new update by cimfra
-# Here is another update by cimfra
+ # Here is a new update by cimfra
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
