@@ -1,7 +1,5 @@
 # Here is a new update by mechatroid
 
-# Here is another update by mechatroid
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
