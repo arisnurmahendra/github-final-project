@@ -1,4 +1,5 @@
 # Here is a new update by Sareuth
+# Here is another update by Sareuth
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
