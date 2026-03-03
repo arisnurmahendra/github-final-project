@@ -2,6 +2,8 @@
 
 # Here is a new update by zdg5063-glitch
 
+# Here is another update by zdg5063-glitch
+
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
 rate = float(input("Enter the shipping rate per kilogram: "))
