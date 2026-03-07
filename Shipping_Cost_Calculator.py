@@ -1,6 +1,5 @@
 # Shipping Cost Calculator
 # Here is a new update by Cerbers
-# Here is another update by Cerbers
 
 
 ## Input package weight and shipping rate
