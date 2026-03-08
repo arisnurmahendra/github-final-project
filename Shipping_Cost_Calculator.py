@@ -1,6 +1,4 @@
  # Here is a new update by Ferid2003
- # Here is another update by Ferid2003
-
 
 # Shipping Cost Calculator
 
