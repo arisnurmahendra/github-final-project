@@ -1,5 +1,4 @@
  # Here is a new update by YJRenK9
- # Here is another update by YJRenK9
 
 # Shipping Cost Calculator
 
