@@ -1,4 +1,7 @@
 # LogisticsShippingRates
+
+![Calculator](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Calculator.png/320px-Calculator.png)
+
 Please consider the below factors while contributing
 
 Code Style:
