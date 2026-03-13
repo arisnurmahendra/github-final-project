@@ -10,3 +10,4 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+"This program calculates the shipping cost based on the weight of the package and the shipping rate per kilogram. The user is prompted to enter the weight and rate, and the program then computes and displays the total shipping cost."
