@@ -12,3 +12,4 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 ‘# Here is a new update by Norbert-Foerster’
 ‘# Here is a new update by Norbert-Foerster’
+‘# Here is another update by by Norbert-Foerster’
