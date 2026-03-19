@@ -10,3 +10,5 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+##the New Line is added by the aman shukla.
+
