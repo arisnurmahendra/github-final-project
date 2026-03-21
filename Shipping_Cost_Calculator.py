@@ -1,12 +1,10 @@
 # Shipping Cost Calculator
 
-## Input package weight and shipping rate
-weight = float(input("Enter the package weight in kilograms: "))
-rate = float(input("Enter the shipping rate per kilogram: "))
-
-## Calculate shipping cost
-shipping_cost = weight * rate
-
-## Display the result
-print(f"Shipping Cost: {shipping_cost} USD")
-
+function calculateShipping() {
+  const weight = parseFloat(document.getElementById('weightInput').value);
+  let cost;
+  if (weight <= 1) cost = 5.00;
+  else if (weight <= 5) cost = 10.00;
+  else cost = 20.00;
+  document.getElementById('output').innerText = `Total: £${cost}`;
+}
