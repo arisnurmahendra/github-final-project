@@ -1,6 +1,4 @@
-# Here is a new update by melchdev
-
-# Here is another update by melchdev
+#Here is a new update by melchdev
 
 # Shipping Cost Calculator
 
