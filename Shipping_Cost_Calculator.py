@@ -1,5 +1,5 @@
 # Here is a new update by marine-ki
- 
+# Here is another update by marine-ki
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
