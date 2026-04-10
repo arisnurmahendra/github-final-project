@@ -47,3 +47,6 @@ scaled_data = pd.concat([data.drop(columns=continuous_columns), scaled_df], axis
 #dfsgfg 
 #dfgdfg
 # fgdfgrfg
+
+print ("dfdf")
+#dfdf
