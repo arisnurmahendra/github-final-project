@@ -42,4 +42,8 @@ scaled_data = pd.concat([data.drop(columns=continuous_columns), scaled_df], axis
 
 #sdfsdfsdf sdf
 
-# added a new file to jupyter
+# added a new file to jupyter#
+
+#dfsgfg 
+#dfgdfg
+# fgdfgrfg
