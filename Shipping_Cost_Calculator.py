@@ -1,3 +1,4 @@
+# Here is a new update by  Gabriel Flores on the Shipping Cost Calculator. This program calculates the shipping cost based on the weight of the package and the shipping rate per kilogram.
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
