@@ -1,5 +1,6 @@
 
 # Here is a new update by JFR
+# Here is another update by JFR
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
