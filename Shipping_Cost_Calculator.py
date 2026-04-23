@@ -1,5 +1,7 @@
 # Here is a new update by Anna-Lena00152
 
+# Here is another update by Anna-Lena00152
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
