@@ -1,5 +1,5 @@
 # Shipping Cost Calculator
- # Here is a new update by kathleenfurey
+ # Here is a another update by kathleenfurey
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
