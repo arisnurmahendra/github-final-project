@@ -1,8 +1,8 @@
 # Here is a new update by RohanaHarsha
 
 ## Input package weight and shipping rate
-weight = float(input("Enter the package weight in kilograms(Metric System) : "))
-rate = float(input("Enter the shipping rate per kilograms(Metric System): "))
+weight = float(input("Enter the package weight in kilogram: "))
+rate = float(input("Enter the shipping rate per kilogram: "))
 
 ## Calculate shipping cost
 shipping_cost = weight * rate
