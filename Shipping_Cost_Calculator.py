@@ -1,6 +1,4 @@
  # Here is a new update by sai-poshith
- # Here is another update by sai-poshith
-
 
 # Shipping Cost Calculator
 
