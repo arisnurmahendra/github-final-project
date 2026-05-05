@@ -18,3 +18,5 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+Updated as part of GitHub practice exercise.
