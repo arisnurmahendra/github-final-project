@@ -1,5 +1,4 @@
-# Shipping Cost C # Here is a new update by gigazej
-# Here is another update by gigazej
+# Shipping Cost C # Here is a new update by 
 
 ## Input package weight and shipping rate
 weight = float(input("Enter the package weight in kilograms: "))
