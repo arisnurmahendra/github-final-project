@@ -1,5 +1,7 @@
 # Shipping Cost Calculator
- # Here is a new update by Xamoudy
+# Here is a new update by Xamoudy
+# Here is another update by Xamoudy
+
 
 
 ## Input package weight and shipping rate
