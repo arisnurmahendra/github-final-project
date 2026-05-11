@@ -1,4 +1,3 @@
-# Here is another update by zaqtech
 # Here is a new update by zaqtech
 # Shipping Cost Calculator
 
