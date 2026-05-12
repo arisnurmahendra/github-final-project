@@ -1,4 +1,5 @@
 # Essa atualização foi feito por gabriel Olegario
+# Essa é a atualização 2.0 feita por gabriel Olegario
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
