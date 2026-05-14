@@ -9,3 +9,4 @@ shipping_cost = (weight * rate)+230
 final_Bill=shipping_cost+250+900
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
+hello=89
