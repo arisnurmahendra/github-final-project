@@ -1,6 +1,5 @@
 # Shipping Cost Calculator
 # Here is a new update by ckm0522
-# Here is another update by ckm0522
 
 
 ## Input package weight and shipping rate
