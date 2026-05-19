@@ -1,5 +1,5 @@
 # Shipping Cost Calculator
-# Here is another update by BetoxPrograming
+ # Here is a new update by BetoxPrograming
 
 
 ## Input package weight and shipping rate
