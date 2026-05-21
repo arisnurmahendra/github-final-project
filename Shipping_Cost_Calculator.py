@@ -1,7 +1,4 @@
-# Here is a new update by perilousTF
-
-# Here is another update by <your GitHub username>
-
+ # Here is a new update by perilousTF
 
 # Shipping Cost Calculator
 
