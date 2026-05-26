@@ -1,4 +1,4 @@
-# Here is a new update by <IntegratedMind19>
+# Here is another new update by <IntegratedMind19>
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
