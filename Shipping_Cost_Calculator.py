@@ -1,4 +1,4 @@
-# Here is a new update by koenver-git
+# Here is another new update by koenver-git
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
