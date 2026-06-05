@@ -1,5 +1,5 @@
 # Shipping Cost Calculator
- # Here is a new update by Biougratester
+# Here is a new update by Biougratester
 
 
 ## Input package weight and shipping rate
