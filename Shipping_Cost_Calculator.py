@@ -1,5 +1,4 @@
  # Here is a new update by Enrique-Zepeda
-# Here is another update by Enrique-Zepeda
 
 # Shipping Cost Calculator
 
