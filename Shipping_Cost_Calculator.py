@@ -11,3 +11,4 @@ shipping_cost = weight * rate
 print(f"The total shipping Cost is: $ {shipping_cost} ")
 
 # Whyme-duh just updated the code with a dollar sign instead of "USD"
+# another update by whyme-duh
