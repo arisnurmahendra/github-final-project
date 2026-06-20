@@ -1,5 +1,7 @@
 # Here is a new update by levanantashvili@gmail.com
 
+# Here is another update by levanantashvili@gmail.com
+
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
