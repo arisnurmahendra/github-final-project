@@ -10,5 +10,9 @@ shipping_cost = weight * rate
 ## Display the result
 print(f"Shipping Cost: {shipping_cost} USD")
 
+<<<<<<< HEAD
 ### Here is a new update by Erick92-unitec
 
+=======
+# Here is a new update by <your GitHub username>
+>>>>>>> 7bcff04 (added a new line to Shipping_Cost_Calculator.py)
