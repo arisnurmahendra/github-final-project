@@ -1,5 +1,4 @@
 # Shipping Cost Calculator
-
 # Here is a new update by wfan-GitHub
 
 ## Input package weight and shipping rate
