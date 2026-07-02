@@ -1,7 +1,5 @@
 # Shipping Cost Calculator
  # Here is a new update by AlmiraBiglova
- # Here is another update by AlmiraBiglova
-
 
 
 ## Input package weight and shipping rate
