@@ -1,5 +1,4 @@
 # Here is a new update by mostafarahimiofficial
-# Here is another update by mostafarahimiofficial
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
