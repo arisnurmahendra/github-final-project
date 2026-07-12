@@ -1,7 +1,8 @@
 # Shipping Cost Calculator
 
- # Here is a new update by <Ahmed Ghaffar>
- 
+ # Here is a new update by Ahmed Ghaffar
+ # Here is another update by Ahmed Ghaffar
+
 
 
 ## Input package weight and shipping rate
