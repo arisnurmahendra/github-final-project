@@ -1,7 +1,6 @@
 # Shipping Cost Calculator
 
  # Here is a new update by Themiddleclassmonk .
- # Here is another update by Themiddleclassmonk
 
 
 ## Input package weight and shipping rate
