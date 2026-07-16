@@ -1,4 +1,4 @@
-# Here is a another update by kneekhole
+# Here is a new update by kneekhole
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
