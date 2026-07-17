@@ -1,6 +1,4 @@
-# Here is a new update by sh
-# Here is another  update by shahnigarek
-
+# Here is a new update by shahnigarek
 
 # Shipping Cost Calculator
 
