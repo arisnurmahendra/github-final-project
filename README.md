@@ -1,20 +1,17 @@
-# LogisticsShippingRates
-Please consider the below factors while contributing
+# Kalkulator Bunga Sederhana (Simple Interest Calculator)
 
-Code Style:
-Maintain a consistent code style for readability.
+Repositori ini berisi skrip Bash untuk menghitung bunga sederhana (simple interest) berdasarkan pokok pinjaman, suku bunga, dan periode waktu.
 
-Documentation:
-Ensure well-documented code for effective collaboration.
+## Deskripsi
+Kalkulator ini adalah bagian dari Proyek Akhir kursus Introduction to Git and GitHub. 
+Skrip ini akan meminta pengguna untuk memasukkan:
+- **p** : Pokok pinjaman (Principal)
+- **r** : Suku bunga tahunan (Rate of interest)
+- **t** : Periode waktu dalam tahun (Time period)
 
-Testing:
-Thoroughly test your changes before submitting a pull request.
+## Rumus
+Skrip ini menggunakan rumus berikut untuk menghitung bunga:
+`Bunga Sederhana = (p * r * t) / 100`
 
-Issue Tracker:
-Check the Issue Tracker for tasks.
-
-Code Review:
-All contributions undergo a code review process.
-
-Licensing:
-Contributions are licensed.
+## Cara Menggunakan
+Jalankan skrip bash `simple-interest.sh` di terminal dan ikuti instruksi untuk memasukkan nilai yang dibutuhkan.
